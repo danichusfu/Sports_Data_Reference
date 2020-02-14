@@ -27,7 +27,7 @@
 | Data Description                                                           	| Format 	| Link                           	|
 |----------------------------------------------------------------------------	|--------	|--------------------------------	|
 | World Championship Rowing 	| csv    	|https://github.com/danichusfu/rowing_pacing_profiles 	|
-|    
+
 
 ## Multiple Datasets
 
